@@ -21,7 +21,6 @@ Este proyecto es una aplicación CRUD (Create, Read, Update, Delete) para gestio
 | Método | Endpoint             | Descripción               |
 |--------|----------------------|---------------------------|
 | GET    | `/api/v1/producto`         | Listar todos los productos |
-| GET    | `/api/v1/producto/{id}`    | Obtener un producto por ID |
 | POST   | `/api/v1/producto/new`         | Crear un nuevo producto |
 | PUT    | `/api/v1/producto/edit/{id}`    | Actualizar un producto |
 | DELETE | `/api/v1/producto/delete/{id}`    | Eliminar un producto |
